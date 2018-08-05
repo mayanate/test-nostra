@@ -1,1 +1,1 @@
-# test-nostra
+# Please check ReadMe.docx for details
