@@ -1,1 +1,1 @@
-# Please check ReadMe.docx for details
+# Please check ReadMe.docx for more details
